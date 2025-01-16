@@ -1,9 +1,10 @@
-<h2 align="left">Olá 👋 Meu nome é Emanuel </h2>
+<h2 align="left">Olá me chamo Emanuel Saldanha👋</h2>
 
 - 🔭 Atualmente estou a procura de uma oportunidade 
 - 🌱  Atualmente estou aprendendo javascript
 
-
+ <h2>Sobre mim</h2> 
+Estudante de Análise e Desenvolvimento de Sistemas e apaixonado pro tecnologia. Gosto muito do Full-Stack, porém estou focando mais no Front-End.
 
 
 <div align="center">
